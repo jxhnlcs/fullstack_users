@@ -8,7 +8,20 @@
 
 Siga as instruções abaixo para executar o sistema em sua máquina local.
 
-1. Abra dois terminais
+### Como Clonar o Repositório
+
+Siga os passos abaixo para clonar o repositório e preparar o ambiente:
+
+1. Abra o terminal e navegue até o diretório onde deseja clonar o repositório.
+
+2. Execute o comando abaixo para clonar o repositório:
+```bash
+git clone https://github.com/jxhnlcs/fullstack_users.git
+```
+
+### Após Clonar o Repositório
+
+1. Abra dois novos terminais
 
 ### Configuração do Backend
 
